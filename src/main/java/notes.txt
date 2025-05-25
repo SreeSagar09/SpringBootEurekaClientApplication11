@@ -1,0 +1,8 @@
+A Simple Netflix Eureka Client as Producer application:
+Programs:
+* SpringBootEurekaClientApplication11Application.java
+* PaymentController.java
+Notes:
+
+Output:
+http://localhost:8082/SpringBootEurekaClientApplication11/payment/paymentDetails

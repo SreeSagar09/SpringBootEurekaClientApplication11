@@ -5,4 +5,4 @@ Programs:
 Notes:
 
 Output:
-http://localhost:8082/SpringBootEurekaClientApplication11/payment/paymentDetails
+http://localhost:8080/SpringBootEurekaClientApplication9/SpringBootEurekaClientApplication11/payment/paymentDetails
